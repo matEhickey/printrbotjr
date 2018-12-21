@@ -1,0 +1,7 @@
+site_name: My Docs
+theme: readthedocs
+pages:
+  - Printrbot JR: index.md
+  - Installation: installation.md
+  - Objets 3D: 3d_objects.md
+  - Utilisation: utilisation.md
